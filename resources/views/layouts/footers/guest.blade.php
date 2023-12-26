@@ -1,0 +1,58 @@
+  <footer class="footer py-5">
+      <div class="container">
+          <div class="row">
+              <div class="col-12 mb-4 mx-auto text-center">
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Contacto
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      About
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Términos y condiciones
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Aviso de privacidad
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Preguntas frecuentes
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Blog
+                  </a>
+                  <a href="" target="_blank" class="text-secondary me-xl-5 me-3 mb-sm-0 mb-2">
+                      Precios
+                  </a>
+
+
+              </div>
+              <div class="col-lg-8 mx-auto text-center mb-4 mt-2">
+                  <a href="https://dribbble.com/creativetim" target="_blank" class="text-secondary me-xl-4 me-4">
+                      <span class="text-lg fab fa-dribbble"></span>
+                  </a>
+                  <a href="https://twitter.com/CreativeTim" target="_blank" class="text-secondary me-xl-4 me-4">
+                      <span class="text-lg fab fa-twitter"></span>
+                  </a>
+                  <a href="https://www.instagram.com/creativetimofficial/" target="_blank" class="text-secondary me-xl-4 me-4">
+                      <span class="text-lg fab fa-instagram"></span>
+                  </a>
+                  <a href="https://ro.pinterest.com/thecreativetim/" target="_blank" class="text-secondary me-xl-4 me-4">
+                      <span class="text-lg fab fa-pinterest"></span>
+                  </a>
+                  <a href="https://github.com/creativetimofficial" target="_blank" class="text-secondary me-xl-4 me-4">
+                      <span class="text-lg fab fa-github"></span>
+                  </a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-8 mx-auto text-center mt-1">
+                  <p class="mb-0 text-secondary">
+                      Copyright © <script>
+                          document.write(new Date().getFullYear())
+                      </script> Soft by <span class="font-weight-bold ml-1"> Administrate 24 7 </span>
+                  </p>
+
+              </div>
+          </div>
+      </div>
+  </footer>
